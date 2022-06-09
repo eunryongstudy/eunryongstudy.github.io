@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eunryongstudy/React/static/css/main.b2daf34b.css",
+    "main.js": "/eunryongstudy/React/static/js/main.49e96be6.js",
+    "static/js/787.f587e8d5.chunk.js": "/eunryongstudy/React/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/eunryongstudy/React/index.html",
+    "main.b2daf34b.css.map": "/eunryongstudy/React/static/css/main.b2daf34b.css.map",
+    "main.49e96be6.js.map": "/eunryongstudy/React/static/js/main.49e96be6.js.map",
+    "787.f587e8d5.chunk.js.map": "/eunryongstudy/React/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2daf34b.css",
+    "static/js/main.49e96be6.js"
+  ]
+}
